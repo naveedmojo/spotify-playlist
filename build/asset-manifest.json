@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/spotify-react-project-codecademy/static/css/main.baa25eec.css",
+    "main.js": "/spotify-react-project-codecademy/static/js/main.da4c8406.js",
+    "static/media/bgimg.jpg": "/spotify-react-project-codecademy/static/media/bgimg.64e16886d870add39961.jpg",
+    "index.html": "/spotify-react-project-codecademy/index.html",
+    "main.baa25eec.css.map": "/spotify-react-project-codecademy/static/css/main.baa25eec.css.map",
+    "main.da4c8406.js.map": "/spotify-react-project-codecademy/static/js/main.da4c8406.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.baa25eec.css",
+    "static/js/main.da4c8406.js"
+  ]
+}
