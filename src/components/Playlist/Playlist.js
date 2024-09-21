@@ -38,7 +38,7 @@ function Playlist({ playlist, setplaylist }) {
       // Clean up the URL
       window.history.replaceState({}, document.title, window.location.pathname);
     } else {
-      alert("Access denied or CSRF attack detected!");
+      alert("Access denied ");
     }
   }
 
